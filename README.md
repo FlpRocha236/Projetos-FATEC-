@@ -18,8 +18,5 @@ dos mais simples até os mais complexos.
 <img align="center" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="center" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
                             
-
-
-  
 </div>                   
           
